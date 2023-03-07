@@ -1,0 +1,2 @@
+# **Vagrant**
+This project is an optional project to setup and test [Vagrant](https://developer.hashicorp.com/vagrant/downloads) [VirtualBox](https://www.virtualbox.org/wiki/Downloads), in Windows Command Prompt.
